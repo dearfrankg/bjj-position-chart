@@ -12,16 +12,17 @@
 | half_guard         | bravo, drysdale                                                                                                           |
 | full_guard         | rat-guard, scissor, posture-break, (tariko, barata )                                                                      |
 | far_guard          | sperry-system, lochlan-foot-locks                                                                                         |
-| ----------         | ----------------------------------                                                                                        |
-| POSITION           | when you have...                                                                                                          |
-| mount              | gracie, barata-plata, truck                                                                                               |
-| side mount         | gracie, baseball, back-take, truck                                                                                        |
-| back mount         | brian-rnc, truck                                                                                                          |
-| turtle             | truck                                                                                                                     |
-| dog fight          | take-down                                                                                                                 |
-| half guard         | pass-guard                                                                                                                |
-| full guard         | pass-guard                                                                                                                |
-| far guard          | lochlan-foot-locks                                                                                                        |
+
+| POSITION   | when you have... (attack)          |
+| ---------- | ---------------------------------- |
+| mount      | gracie, barata-plata, truck        |
+| side mount | gracie, baseball, back-take, truck |
+| back mount | brian-rnc, truck                   |
+| turtle     | truck                              |
+| dog fight  | take-down                          |
+| half guard | pass-guard                         |
+| full guard | pass-guard                         |
+| far guard  | lochlan-foot-locks                 |
 
 [mnt-uppa-knight]: https://tinyurl.com/y4njyjqc
 [mnt-tunnel-firaz]: https://tinyurl.com/y2prmcb5
