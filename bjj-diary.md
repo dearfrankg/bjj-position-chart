@@ -1,28 +1,28 @@
 # POSITION CHART
 
-| POSITION   | when opponent has... (counter)                                                                                            |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------- |
-| high-mount | [mnt-uppa-knight]                                                                                                         |
-| low-mount  | [mnt-tunnel-firaz], [mnt-knee-trap-gracie], [mnt-knee-position-lochlan], [mnt-bump-butterfly-brian], [mnt-leglock-reilly] |
-| foot-mount | [mnt-wedding-sweep-brian]                                                                                                 |
-| side mount | [smnt-pray-firaz], [smnt-frame-firaz], [smnt-ghost-brian], [smnt-ginger-snap], [smnt-fly-trap]                            |
-| back mount | [back-escape-brian], [back-escape-fox], [back-escape-gracie]                                                              |
-| turtle     | [turtle-escape-lochlan]                                                                                                   |
-| dog fight  | jason, bravo (take-back, take-side-mount)                                                                                 |
-| half guard | bravo, drysdale                                                                                                           |
-| full guard | rat-guard, scissor, posture-break, (tariko, barata )                                                                      |
-| far guard  | sperry-system, lochlan-foot-locks                                                                                         |
-| ---------- | ----------------------------------                                                                                        |
-| POSITION   | when you have...                                                                                                          |
-| ---------- | ----------------------------------                                                                                        |
-| mount      | gracie, barata-plata, truck                                                                                               |
-| side mount | gracie, baseball, back-take, truck                                                                                        |
-| back mount | brian-rnc, truck                                                                                                          |
-| turtle     | truck                                                                                                                     |
-| dog fight  | take-down                                                                                                                 |
-| half guard | pass-guard                                                                                                                |
-| full guard | pass-guard                                                                                                                |
-| far guard  | lochlan-foot-locks                                                                                                        |
+| POSITION           | when opponent has... (counter)                                                                                            |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| high_posture_mount | [mnt-uppa-knight]                                                                                                         |
+| low_posture_mount  | [mnt-tunnel-firaz], [mnt-knee-trap-gracie], [mnt-knee-position-lochlan], [mnt-bump-butterfly-brian], [mnt-leglock-reilly] |
+| technical_mount    | [mnt-wedding-sweep-brian]                                                                                                 |
+| side_mount         | [smnt-pray-firaz], [smnt-frame-firaz], [smnt-ghost-brian], [smnt-ginger-snap], [smnt-fly-trap]                            |
+| back_mount         | [back-escape-brian], [back-escape-fox], [back-escape-gracie]                                                              |
+| turtle             | [turtle-escape-lochlan]                                                                                                   |
+| dog_fight          | beef_wellington_jason, bravo (take-back, take-side-mount)                                                                 |
+| half_guard         | bravo, drysdale                                                                                                           |
+| full_guard         | rat-guard, scissor, posture-break, (tariko, barata )                                                                      |
+| far_guard          | sperry-system, lochlan-foot-locks                                                                                         |
+| ----------         | ----------------------------------                                                                                        |
+| POSITION           | when you have...                                                                                                          |
+| ----------         | ----------------------------------                                                                                        |
+| mount              | gracie, barata-plata, truck                                                                                               |
+| side mount         | gracie, baseball, back-take, truck                                                                                        |
+| back mount         | brian-rnc, truck                                                                                                          |
+| turtle             | truck                                                                                                                     |
+| dog fight          | take-down                                                                                                                 |
+| half guard         | pass-guard                                                                                                                |
+| full guard         | pass-guard                                                                                                                |
+| far guard          | lochlan-foot-locks                                                                                                        |
 
 [mnt-uppa-knight]: https://tinyurl.com/y4njyjqc
 [mnt-tunnel-firaz]: https://tinyurl.com/y2prmcb5
