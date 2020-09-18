@@ -1,6 +1,6 @@
-# POSITION CHART
+# BJJ POSITION CHART
 
-| POSITION           | when opponent has... (counter)                                                                                            |
+| BJJ POSITION       | when opponent has... (counter)                                                                                            |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------- |
 | high_posture_mount | [mnt-uppa-knight]                                                                                                         |
 | low_posture_mount  | [mnt-tunnel-firaz], [mnt-knee-trap-gracie], [mnt-knee-position-lochlan], [mnt-bump-butterfly-brian], [mnt-leglock-reilly] |
