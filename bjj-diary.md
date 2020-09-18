@@ -14,7 +14,6 @@
 | far_guard          | sperry-system, lochlan-foot-locks                                                                                         |
 | ----------         | ----------------------------------                                                                                        |
 | POSITION           | when you have...                                                                                                          |
-| ----------         | ----------------------------------                                                                                        |
 | mount              | gracie, barata-plata, truck                                                                                               |
 | side mount         | gracie, baseball, back-take, truck                                                                                        |
 | back mount         | brian-rnc, truck                                                                                                          |
