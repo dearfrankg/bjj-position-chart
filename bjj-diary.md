@@ -11,7 +11,7 @@
 | turtle                      | [turtle-escape-lochlan]                                                                                                                                                                                             |
 | dog_fight                   | [beef-wellington][dog-beef-wellington-jason]                                                                                                                                                                        |
 | half_guard                  | [drysdale bump][dog-drysdale-bump], [electric-chair][electric-chair-bravo]                                                                                                                                          |
-| full_guard                  | [rat-guard][grd-rat-guard-1-dryfus],[2][grd-rat2], [4][grd-rat4], [5][grd-rat5]                                                                                                                                     |
+| full_guard                  | [rat-guard-1][grd-rat-guard-1-dryfus],[2][grd-rat2], [4][grd-rat4], [5][grd-rat5], [6][grd-rat6]                                                                                                                    |
 | far_guard                   | sperry-system, lochlan-foot-locks                                                                                                                                                                                   |
 
 <!-- high posture mount -->
@@ -67,6 +67,7 @@
 [grd-rat2]: https://tinyurl.com/y2bwunu8
 [grd-rat4]: https://tinyurl.com/yyy2hdbr
 [grd-rat5]: https://tinyurl.com/y6azh4hw
+[grd-rat6]: https://tinyurl.com/y4w6vvu2
 
 <!-- far guard -->
 
