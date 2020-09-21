@@ -10,7 +10,7 @@
 | back_mount                  | [brian's back escape system][back-escape-brian], [low/high back esacape][back-escape-fox], [arm over head back escape][back-escape-gracie]                                                                          |
 | turtle                      | [turtle escape][turtle-escape-lochlan]                                                                                                                                                                              |
 | dog_fight                   | [beef wellington][dog-beef-wellington-jason]                                                                                                                                                                        |
-| half_guard                  | [bravo half guard][electric-chair-bravo], [drysdale bump][dog-drysdale-bump]                                                                                                                                        |
+| half_guard                  | [bravo half guard][electric-chair-bravo], [wedding sweep][mnt-wedding-sweep-brian], [drysdale bump][dog-drysdale-bump]                                                                                              |
 | full_guard                  | rat guard [1][grd-rat-guard-1-dryfus], [2][grd-rat2], [4][grd-rat4], [5][grd-rat5], [6][grd-rat6]                                                                                                                   |
 | far_guard                   | sperry-system, lochlan-foot-locks                                                                                                                                                                                   |
 
