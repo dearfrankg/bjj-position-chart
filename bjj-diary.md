@@ -1,18 +1,18 @@
 # BJJ NO GI POSITION CHART
 
-| BJJ position                | when opponent has... (counter)                                                                                                                                                                                      |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| high_posture_mount          | [bump to arm trap][mnt-bump-to-arm-trap-knight]                                                                                                                                                                     |
-| low_posture_mount           | [standard mount escape][mnt-standard-escape-lochlan], [tunnel escape][mnt-tunnel-firaz], [mount to leg lock][mnt-leglock-reilly]                                                                                    |
-| low_posture_mount_solutions | [heavy knee - leg pinch solution][mnt-heavy-knee-solution-gracie], [shoulder smash - butterfly solution][mnt-shoulder-smash-solution-brian] <br/> [grapevine - land on side solution][mnt-grapevine-solution-tonin] |
-| technical_mount             | [wedding sweep][mnt-wedding-sweep-brian]                                                                                                                                                                            |
-| side_mount                  | [frame reversal][smnt-frame-firaz], [pray reversal][smnt-pray-firaz], [ghost reversal][smnt-ghost-brian], [wedding sweep][mnt-wedding-sweep-brian], [ginger snap][smnt-ginger-snap], [fly trap][smnt-fly-trap]      |
-| back_mount                  | [brian's back escape system][back-escape-brian], [low/high back esacape][back-escape-fox], [arm over head back escape][back-escape-gracie]                                                                          |
-| turtle                      | [turtle escape][turtle-escape-lochlan]                                                                                                                                                                              |
-| dog_fight                   | [beef wellington][dog-beef-wellington-jason]                                                                                                                                                                        |
-| half_guard                  | [bravo half guard][electric-chair-bravo], [wedding sweep][mnt-wedding-sweep-brian], [drysdale bump][dog-drysdale-bump]                                                                                              |
-| full_guard                  | rat guard [1][grd-rat-guard-1-dryfus], [2][grd-rat2], [4][grd-rat4], [5][grd-rat5], [6][grd-rat6]                                                                                                                   |
-| far_guard                   | sperry-system, lochlan-foot-locks                                                                                                                                                                                   |
+| BJJ position                | when opponent has... (counter)                                                                                                                                                                                                                                    |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| high_posture_mount          | [bump to arm trap][mnt-bump-to-arm-trap-knight]                                                                                                                                                                                                                   |
+| low_posture_mount           | [standard mount escape][mnt-standard-escape-lochlan], [tunnel escape][mnt-tunnel-firaz], [mount to leg lock][mnt-leglock-reilly]                                                                                                                                  |
+| low_posture_mount_solutions | [heavy knee - leg pinch solution][mnt-heavy-knee-solution-gracie], [shoulder smash - butterfly solution][mnt-shoulder-smash-solution-brian] <br/> [grapevine - land on side solution][mnt-grapevine-solution-tonin], [sliding-shrimp][mnt-sliding-shrimp-danaher] |
+| technical_mount             | [wedding sweep][mnt-wedding-sweep-brian]                                                                                                                                                                                                                          |
+| side_mount                  | [frame reversal][smnt-frame-firaz], [pray reversal][smnt-pray-firaz], [ghost reversal][smnt-ghost-brian], [wedding sweep][mnt-wedding-sweep-brian], [ginger snap][smnt-ginger-snap], [fly trap][smnt-fly-trap]                                                    |
+| back_mount                  | [brian's back escape system][back-escape-brian], [low/high back esacape][back-escape-fox], [arm over head back escape][back-escape-gracie]                                                                                                                        |
+| turtle                      | [turtle escape][turtle-escape-lochlan]                                                                                                                                                                                                                            |
+| dog_fight                   | [beef wellington][dog-beef-wellington-jason]                                                                                                                                                                                                                      |
+| half_guard                  | [bravo half guard][electric-chair-bravo], [wedding sweep][mnt-wedding-sweep-brian], [drysdale bump][dog-drysdale-bump]                                                                                                                                            |
+| full_guard                  | rat guard [1][grd-rat-guard-1-dryfus], [2][grd-rat2], [4][grd-rat4], [5][grd-rat5], [6][grd-rat6]                                                                                                                                                                 |
+| far_guard                   | sperry-system, lochlan-foot-locks                                                                                                                                                                                                                                 |
 
 <!-- high posture mount -->
 
@@ -29,6 +29,7 @@
 [mnt-heavy-knee-solution-gracie]: https://tinyurl.com/yxj7sfdm
 [mnt-shoulder-smash-solution-brian]: https://tinyurl.com/y5t6krwh
 [mnt-grapevine-solution-tonin]: https://tinyurl.com/yxogbul2
+[mnt-sliding-shrimp-danaher]: https://tinyurl.com/y55hpocg
 
 <!-- technical mount -->
 
