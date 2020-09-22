@@ -6,6 +6,7 @@
 | low_posture_mount           | [standard mount escape][mnt-standard-escape-lochlan], [tunnel escape][mnt-tunnel-firaz], [mount to leg lock][mnt-leglock-reilly]                                                                                                                              |
 | low_posture_mount_solutions | [heavy knee - leg pinch solution][mnt-heavy-knee-solution-gracie], [shoulder smash - butterfly solution][mnt-shoulder-smash-solution-brian] <br/> [grapevine - land on side solution][mnt-grapevine-solution-tonin], [power-shrimp][mnt-power-shrimp-danaher] |
 | technical_mount             | [wedding sweep][mnt-wedding-sweep-brian]                                                                                                                                                                                                                      |
+| knee mount                  | [knee escape][mnt-knee-escape-knight]                                                                                                                                                                                                                         |
 | side_mount                  | [frame reversal][smnt-frame-firaz], [pray reversal][smnt-pray-firaz], [ghost reversal][smnt-ghost-brian], [wedding sweep][mnt-wedding-sweep-brian], [ginger snap][smnt-ginger-snap], [fly trap][smnt-fly-trap]                                                |
 | back_mount                  | [brian's back escape system][back-escape-brian], [low/high back esacape][back-escape-fox], [arm over head back escape][back-escape-gracie]                                                                                                                    |
 | turtle                      | [turtle escape][turtle-escape-lochlan]                                                                                                                                                                                                                        |
@@ -34,6 +35,10 @@
 <!-- technical mount -->
 
 [mnt-wedding-sweep-brian]: https://tinyurl.com/y4wrz3pr
+
+<!-- knee mount -->
+
+[mnt-knee-escape-knight]: https://tinyurl.com/y649w957
 
 <!-- side mount -->
 
