@@ -2,6 +2,7 @@
 
 | BJJ position                | when opponent has... (counter)                                                                                                                                                                                                                                |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| high mount                  | [leg lift][mnt-leg-lift-phillip]                                                                                                                                                                                                                              |
 | high_posture_mount          | [bump to arm trap][mnt-bump-to-arm-trap-knight]                                                                                                                                                                                                               |
 | low_posture_mount           | [standard mount escape][mnt-standard-escape-lochlan], [tunnel escape][mnt-tunnel-firaz], [mount to leg lock][mnt-leglock-reilly]                                                                                                                              |
 | low_posture_mount_solutions | [heavy knee - leg pinch solution][mnt-heavy-knee-solution-gracie], [shoulder smash - butterfly solution][mnt-shoulder-smash-solution-brian] <br/> [grapevine - land on side solution][mnt-grapevine-solution-tonin], [power-shrimp][mnt-power-shrimp-danaher] |
@@ -14,6 +15,10 @@
 | half_guard                  | [bravo half guard][electric-chair-bravo], [wedding sweep][mnt-wedding-sweep-brian], [drysdale bump][dog-drysdale-bump]                                                                                                                                        |
 | full_guard                  | rat guard [1][grd-rat-guard-1-dryfus], [2][grd-rat2], [4][grd-rat4], [5][grd-rat5], [6][grd-rat6]                                                                                                                                                             |
 | far_guard                   | sperry-system, lochlan-foot-locks                                                                                                                                                                                                                             |
+
+<!-- high mount -->
+
+[mnt-leg-lift-phillip]: https://tinyurl.com/y6ssyar4
 
 <!-- high posture mount -->
 
