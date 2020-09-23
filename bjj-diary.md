@@ -86,6 +86,10 @@
 | back mount   | brian-rnc, truck                   |
 | turtle       | truck                              |
 | dog fight    | take-down                          |
-| half guard   | pass-guard                         |
+| half guard   | [leg locks][hgrd-leg-locks-chewy]  |
 | full guard   | pass-guard                         |
 | far guard    | lochlan-foot-locks                 |
+
+<!-- half guard -->
+
+[hgrd-leg-locks-chewy]: https://tinyurl.com/yy4nxxtf
