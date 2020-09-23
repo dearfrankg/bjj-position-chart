@@ -7,7 +7,7 @@
 | low_posture_mount           | [standard mount escape][mnt-standard-escape-lochlan], [tunnel escape][mnt-tunnel-firaz], [mount to leg lock][mnt-leglock-reilly]                                                                                                                              |
 | low_posture_mount_solutions | [heavy knee - leg pinch solution][mnt-heavy-knee-solution-gracie], [shoulder smash - butterfly solution][mnt-shoulder-smash-solution-brian] <br/> [grapevine - land on side solution][mnt-grapevine-solution-tonin], [power-shrimp][mnt-power-shrimp-danaher] |
 | technical_mount             | [wedding sweep][mnt-wedding-sweep-brian]                                                                                                                                                                                                                      |
-| knee mount                  | [bump escape][mnt-knee-escape-brian], [trap escape][mnt-knee-escape-lochlan]                                                                                                                                                                                  |
+| knee mount                  | [knee bump escape][mnt-knee-escape-renzo], [hip bump escape][mnt-knee-escape-brian], [trap escape][mnt-knee-escape-lochlan]                                                                                                                                   |
 | side_mount                  | [frame reversal][smnt-frame-firaz], [pray reversal][smnt-pray-firaz], [ghost reversal][smnt-ghost-brian], [iron squirrel][smnt-iron-squirrel-chewy], [wedding sweep][mnt-wedding-sweep-brian], [ginger snap][smnt-ginger-snap], [fly trap][smnt-fly-trap]     |
 | back_mount                  | [brian's back escape system][back-escape-brian], [low/high back esacape][back-escape-fox], [arm over head back escape][back-escape-gracie]                                                                                                                    |
 | turtle                      | [turtle escape][turtle-escape-lochlan]                                                                                                                                                                                                                        |
@@ -45,6 +45,7 @@
 
 [mnt-knee-escape-brian]: https://tinyurl.com/y6kdcbse
 [mnt-knee-escape-lochlan]: https://tinyurl.com/y2toomy2
+[mnt-knee-escape-renzo]: https://tinyurl.com/y2jtuq4q
 
 <!-- side mount -->
 
