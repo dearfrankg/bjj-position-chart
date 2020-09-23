@@ -86,17 +86,21 @@
 
 ## xxx
 
-| BJJ position | when you have... (attack)          |
-| ------------ | ---------------------------------- |
-| mount        | gracie, barata-plata, truck        |
-| side mount   | gracie, baseball, back-take, truck |
-| back mount   | brian-rnc, truck                   |
-| turtle       | truck                              |
-| dog fight    | take-down                          |
-| half guard   | [leg locks][hgrd-leg-locks-chewy]  |
-| full guard   | pass-guard                         |
-| far guard    | lochlan-foot-locks                 |
+| BJJ position | when you have... (attack)                  |
+| ------------ | ------------------------------------------ |
+| mount        | gracie, barata-plata, truck                |
+| side mount   | gracie, baseball, back-take, truck         |
+| back mount   | brian-rnc, truck                           |
+| turtle       | truck                                      |
+| dog fight    | take-down                                  |
+| half guard   | [leg locks][hgrd-leg-locks-chewy]          |
+| full guard   | [maintaining guard][grd-maintaining-chewy] |
+| far guard    | lochlan-foot-locks                         |
 
 <!-- half guard -->
 
 [hgrd-leg-locks-chewy]: https://tinyurl.com/yy4nxxtf
+
+<!-- full guard -->
+
+[grd-maintaining-chewy]: https://tinyurl.com/y5nkr5m2
