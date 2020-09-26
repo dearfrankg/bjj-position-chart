@@ -1,6 +1,6 @@
-# BJJ NO GI POSITION CHART
+# NO GI BJJ POSITION CHART
 
-| BJJ position                | when opponent has... (counter)                                                                                                                                                                                                                                |
+| position                    | when opponent has... (counter)                                                                                                                                                                                                                                |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | high mount                  | [old man cheat][mnt-leg-lift-phillip]                                                                                                                                                                                                                         |
 | high_posture_mount          | [bump to arm trap][mnt-bump-to-arm-trap-knight]                                                                                                                                                                                                               |
@@ -87,16 +87,16 @@
 
 ## xxx
 
-| BJJ position | when you have... (attack)                  |
-| ------------ | ------------------------------------------ |
-| mount        | gracie, barata-plata, truck                |
-| side mount   | gracie, baseball, back-take, truck         |
-| back mount   | brian-rnc, truck                           |
-| turtle       | truck                                      |
-| dog fight    | take-down                                  |
-| half guard   | [leg locks][hgrd-leg-locks-chewy]          |
-| full guard   | [maintaining guard][grd-maintaining-chewy] |
-| far guard    | lochlan-foot-locks                         |
+| position   | when you have... (attack)                  |
+| ---------- | ------------------------------------------ |
+| mount      | gracie, barata-plata, truck                |
+| side mount | gracie, baseball, back-take, truck         |
+| back mount | brian-rnc, truck                           |
+| turtle     | truck                                      |
+| dog fight  | take-down                                  |
+| half guard | [leg locks][hgrd-leg-locks-chewy]          |
+| full guard | [maintaining guard][grd-maintaining-chewy] |
+| far guard  | lochlan-foot-locks                         |
 
 <!-- half guard -->
 
@@ -105,3 +105,7 @@
 <!-- full guard -->
 
 [grd-maintaining-chewy]: https://tinyurl.com/y5nkr5m2
+
+## ADVICE
+
+[Advice of Miyamoto Musashi](https://tinyurl.com/yxfee5z6)
