@@ -2,7 +2,7 @@
 
 | position                    | when opponent has... (counter)                                                                                                                                                                                                                                |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| high mount                  | [old man cheat][mnt-leg-lift-phillip]                                                                                                                                                                                                                         |
+| high mount                  | [old man cheat][mnt-leg-lift-phillip], [mma reversal][mnt-mma-reversal]                                                                                                                                                                                       |
 | high_posture_mount          | [bump to arm trap][mnt-bump-to-arm-trap-knight]                                                                                                                                                                                                               |
 | low_posture_mount           | [standard mount escape][mnt-standard-escape-lochlan], [tunnel escape][mnt-tunnel-firaz], [mount to leg lock][mnt-leglock-reilly]                                                                                                                              |
 | low_posture_mount_solutions | [heavy knee - leg pinch solution][mnt-heavy-knee-solution-gracie], [shoulder smash - butterfly solution][mnt-shoulder-smash-solution-brian] <br/> [grapevine - land on side solution][mnt-grapevine-solution-tonin], [power-shrimp][mnt-power-shrimp-danaher] |
@@ -19,6 +19,7 @@
 <!-- high mount -->
 
 [mnt-leg-lift-phillip]: https://tinyurl.com/y6ssyar4
+[mnt-mma-reversal]: https://tinyurl.com/yyfw7q2l
 
 <!-- high posture mount -->
 
