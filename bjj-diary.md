@@ -86,7 +86,7 @@
 
 <!-- far guard -->
 
-## xxx
+## ATTACKS
 
 | position   | when you have... (attack)                  |
 | ---------- | ------------------------------------------ |
@@ -106,6 +106,14 @@
 <!-- full guard -->
 
 [grd-maintaining-chewy]: https://tinyurl.com/y5nkr5m2
+
+## DEFENSE
+
+| attack       | defense                                   |
+| ------------ | ----------------------------------------- |
+| arm triangle | [defend arm tiangle][defend-arm-triangle] |
+
+[defend-arm-triangle]: https://tinyurl.com/yynot6vm
 
 ## ADVICE
 
